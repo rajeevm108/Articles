@@ -1,0 +1,7 @@
+site_name: My Docs
+site_url: https://rajeevm108.github.io/Articles/
+nav:
+  - Home: index.md
+  - Guide: guide.md
+theme:
+  name: material  # optional, you can use default or Material for MkDocs
